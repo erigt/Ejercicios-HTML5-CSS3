@@ -1,0 +1,114 @@
+body {
+	margin: 50px;
+	padding: 60px;
+	background-color: rgb(212, 150, 69);
+}
+
+h2 {
+	text-align: center;
+	margin: auto;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#colores {
+	background-color: green ;
+	text-align: center;
+	width: 450px;
+	height: 50px;
+	font-weight: bold;
+	}
+	
+.black {
+	float:left;
+	background: black;
+	width: 75px;
+	height: 50px;
+}
+.teal {
+	float: left;
+	background: teal;
+	width: 75px;
+	height: 50px;
+}
+.blue {
+	float: left;
+	background: blue;
+	width: 75px;
+	height: 50px;
+}
+.navy {
+	float: left;
+	background: navy;
+	width: 75px;
+	height: 50px;
+}
+.lime {
+	float: left;
+	background: lime;
+	width: 75px;
+	height: 50px;
+}
+.white {
+	float: left;
+	background: white;
+	width: 75px;
+	height: 50px;
+}
+.purple {
+	float: left;
+	background: purple;
+	width: 75px;
+	height: 50px;
+}
+.yellow {
+	float: left;
+	background: yellow;
+	width: 75px;
+	height: 50px;
+}
+.olive {
+	float: left;
+	background: olive;
+	width: 75px;
+	height: 50px;
+}
+.red {
+	float: left;
+	background: red;
+	width: 75px;
+	height: 50px;
+}
+.marron {
+	float: left;
+	background: maroon;
+	width: 75px;
+	height: 50px;
+}
+.gray {
+	float: left;
+	background: gray;
+	width: 75px;
+	height: 50px;
+}
+.fuchsia {
+	float: left;
+	background: fuchsia;
+	width: 75px;
+	height: 50px;
+}
+.green {
+	float: left;
+	background: green;
+	width: 225px;
+	height: 50px;
+}
+.text {
+	font-size: 25px;
+	font-weight: normal;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+	
